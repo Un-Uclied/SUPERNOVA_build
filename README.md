@@ -1,4 +1,4 @@
-![이미지!!](image-1.png)
+![이미지!!](image.png)
 ![alt text](image2.png)
 ![alt text](image3.png)
 
