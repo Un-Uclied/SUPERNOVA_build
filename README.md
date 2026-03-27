@@ -1,3 +1,7 @@
+![이미지!!](image-1.png)
+![alt text](image2.png)
+![alt text](image3.png)
+
 app.py로 게임을 실행합니다
 
 editor.py로 레벨에디터을 실행합니다

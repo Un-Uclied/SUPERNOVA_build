@@ -29,7 +29,7 @@ class GAME:
         pygame.display.set_icon(pygame.image.load('data/images/icon.png'))
 
         #화면|캔버스 조절
-        self.screen = pygame.display.set_mode((1280, 960), pygame.FULLSCREEN)
+        self.screen = pygame.display.set_mode((1280, 960))
         self.canvas = pygame.Surface((320, 240), pygame.SRCALPHA)
         self.canvas_no_outline = pygame.Surface(self.canvas.get_size())
         self.ui_canvas = pygame.Surface(self.canvas.get_size(), pygame.SRCALPHA)
